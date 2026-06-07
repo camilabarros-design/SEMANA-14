@@ -405,4 +405,5 @@ function renderDetalhe() {
       </div>
     `).join("");
   }
+  
 }
