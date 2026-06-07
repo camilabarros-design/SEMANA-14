@@ -23,6 +23,7 @@ Site estático e responsivo que apresenta os principais locais turísticos, hist
 - Gráfico de Barras
 - Gráfico de Avaliação Média
 
+
 ## Prints
 
 ![Print1](img/VIZU01.png)
