@@ -401,3 +401,15 @@ a    { text-decoration: none; color: inherit; }
   .cards-grid { grid-template-columns: 1fr; }
   .fotos-grid { grid-template-columns: 1fr; }
 }
+
+.nav-link-viz {
+  background: var(--ouro) !important;
+  color: var(--branco) !important;
+  border-radius: var(--r-sm);
+  font-weight: 700 !important;
+  opacity: 1 !important;
+}
+.nav-link-viz:hover {
+  background: var(--ouro-claro) !important;
+  color: var(--verde) !important;
+}
